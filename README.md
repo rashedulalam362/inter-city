@@ -3,7 +3,7 @@
 
 :mailbox: Let us know about the project!
 
-# Safer Streets Rider
+# Inter-city Rider
 
 It is a ride sharing website. On this website, you can search for places to visit and can see the description of the spectacular places.This site I integrate google map. Here are more facilities for a user. They are:
 - Users can sign up using his/her email.
